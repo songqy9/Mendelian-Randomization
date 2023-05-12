@@ -9,7 +9,4 @@ This repository contains code and data necessary to replicate the findings of th
 > - [**R**](https://www.r-project.org/)
 >   - R packages: TwoSampleMR (version 0.4.10), MRPRESSO (version 1.0), RadialMR (version 0.4), MendelianRandomization (version 0.5.1).
 
-## Maintainer
-> **Yao Shi & Zhang Meng**  
-> You can contact :email:yaoshi@xjtu.edu.cn or :email:zmarch@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.  
-> Please describe in details, and attach your command line and log messages if possible.  
+
